@@ -6,3 +6,5 @@ export default function(){
     {title:"Eloquent Ruby"},
   ]
 }
+
+// the books reducer always returns an array of books no matter what.

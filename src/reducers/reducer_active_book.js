@@ -9,3 +9,5 @@ export default function(state=null, action){
 }
 
 // all reducers get 2 arguments; the current state and action.
+
+// our application state is assembled entirely by all of our reducers.
